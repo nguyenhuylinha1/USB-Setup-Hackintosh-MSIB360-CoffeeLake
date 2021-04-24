@@ -9,3 +9,4 @@ Dell U2417H
 # Catalina
 
 # Opencore
+https://dortania.github.io/OpenCore-Install-Guide/installer-guide/
